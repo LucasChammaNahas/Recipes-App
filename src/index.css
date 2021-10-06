@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+:root {
+  --bg-color: #303030;
+  --color-first: #E89E2E;
+  --color-secund: #2EE854;
+  --text-architects: 'Architects Daughter', cursive;
+  --text-russo: 'Russo One', cursive;
+  --text-abel: 'Abel', cursive;
+  --text-pacifico: 'Pacifico', cursive;
+  --text-bangers: 'Bangers', cursive;
+}

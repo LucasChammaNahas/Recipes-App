@@ -1,0 +1,13 @@
+.ingredients-container {
+  background-color: var(--color-secund);
+  border-radius: 10px;
+  font-family: var(--text-abel);
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.ingredients-container p {
+  font-family: var(--text-russo);
+  text-align: center;
+}

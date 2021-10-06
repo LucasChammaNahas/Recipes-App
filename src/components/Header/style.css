@@ -1,0 +1,29 @@
+header {
+  background-color: var(--color-first);
+  border-bottom: solid 1px var(--bg-color);
+  display: flex;
+  height: 70px;
+  padding: auto 20px;
+  position: sticky;
+  text-align: center;
+  top: 0;
+  z-index: 2;
+}
+
+header p {
+  font-family: var(--text-architects);
+  font-size: 28px;
+  line-height: 30px;
+  margin-bottom: auto;
+  margin-top: auto;
+  width: 56.11%;
+}
+
+header img {
+  height: 100%;
+}
+
+header button {
+  background-color: transparent;
+  border: none;
+}

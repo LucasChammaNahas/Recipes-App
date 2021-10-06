@@ -1,0 +1,38 @@
+body {
+  background-color: var(--bg-color);
+  height: 100vh;
+}
+
+:root {
+  background-color: var(--bg-color);
+  margin: auto;
+  max-width: 500px;
+  min-height: 100vh;
+  position: relative;
+}
+
+.list {
+  min-height: calc(100vh - 140px);
+}
+
+.start-recipe {
+  background-color: var(--color-first);
+}
+
+.finish-recipe-btn {
+  background-color: var(--color-secund);
+  color: black;
+}
+
+.buttons-filter-drinks button {
+  background-color: var(--color-secund);
+  border: none;
+  color: var(--bg-color);
+  font-family: var(--text-russo);
+}
+
+.profile button {
+  background-color: var(--color-secund);
+  border: none;
+  color: var(--bg-color);
+}
