@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Recipes-App/static/css/main.abb61911.chunk.css",
+    "main.js": "/Recipes-App/static/js/main.1fc2630f.chunk.js",
+    "main.js.map": "/Recipes-App/static/js/main.1fc2630f.chunk.js.map",
+    "runtime-main.js": "/Recipes-App/static/js/runtime-main.a0c6c7f7.js",
+    "runtime-main.js.map": "/Recipes-App/static/js/runtime-main.a0c6c7f7.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/Recipes-App/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.33f4bfb6.chunk.js": "/Recipes-App/static/js/2.33f4bfb6.chunk.js",
+    "static/js/2.33f4bfb6.chunk.js.map": "/Recipes-App/static/js/2.33f4bfb6.chunk.js.map",
+    "index.html": "/Recipes-App/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/Recipes-App/static/css/2.0f1110e3.chunk.css.map",
+    "static/css/main.abb61911.chunk.css.map": "/Recipes-App/static/css/main.abb61911.chunk.css.map",
+    "static/js/2.33f4bfb6.chunk.js.LICENSE.txt": "/Recipes-App/static/js/2.33f4bfb6.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.083cb006.svg": "/Recipes-App/static/media/blackHeartIcon.083cb006.svg",
+    "static/media/chef.df607e23.png": "/Recipes-App/static/media/chef.df607e23.png",
+    "static/media/drinkIcon.efc0d3c1.svg": "/Recipes-App/static/media/drinkIcon.efc0d3c1.svg",
+    "static/media/exploreDrinks.f66b05fd.png": "/Recipes-App/static/media/exploreDrinks.f66b05fd.png",
+    "static/media/exploreFood.eb6cacc1.png": "/Recipes-App/static/media/exploreFood.eb6cacc1.png",
+    "static/media/exploreIcon.07634623.svg": "/Recipes-App/static/media/exploreIcon.07634623.svg",
+    "static/media/ingredientsFood.a0d7df60.png": "/Recipes-App/static/media/ingredientsFood.a0d7df60.png",
+    "static/media/loadingIcon.2d933e03.svg": "/Recipes-App/static/media/loadingIcon.2d933e03.svg",
+    "static/media/location.aedfccbb.png": "/Recipes-App/static/media/location.aedfccbb.png",
+    "static/media/mealIcon.40029e7f.svg": "/Recipes-App/static/media/mealIcon.40029e7f.svg",
+    "static/media/profileIcon.44eb3608.svg": "/Recipes-App/static/media/profileIcon.44eb3608.svg",
+    "static/media/searchIcon.7353564d.svg": "/Recipes-App/static/media/searchIcon.7353564d.svg",
+    "static/media/shareIcon.87def1bd.svg": "/Recipes-App/static/media/shareIcon.87def1bd.svg",
+    "static/media/whiteHeartIcon.2b822118.svg": "/Recipes-App/static/media/whiteHeartIcon.2b822118.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c6c7f7.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.33f4bfb6.chunk.js",
+    "static/css/main.abb61911.chunk.css",
+    "static/js/main.1fc2630f.chunk.js"
+  ]
+}
